@@ -1,0 +1,22 @@
+{
+  "name": "id-gpstracker",
+  "version": "1.0.0",
+  "description": "JSONification of id-gpstracker API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hyperquest": "^1.2.0",
+    "xml2js": "^0.4.9"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "id-gpstracker",
+    "tracker",
+    "gps",
+    "bandung"
+  ]
+}
